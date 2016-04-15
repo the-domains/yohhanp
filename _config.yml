@@ -1,7 +1,7 @@
 name: yohhanp
 favicon: null
-layout_spectrum: 0.75055
-typography_spectrum: 0.1846437759231776
+layout_spectrum: 0.89468
+typography_spectrum: 0.12195
 title: Yohhan P
 cta:
   domain: null
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
-  brandStrength: 0.5
-  lightness: 0.5
+    - '#7eb9c7'
+    - '#d77955'
+    - '#4d4b4c'
+    - '#d9ddde'
+    - '#1f232c'
+  brandStrength: 0.75
+  lightness: 0.6875
   saturation: 0.8015062951017171
-  rhythmicContrast: 0.5
+  rhythmicContrast: 0.25
 purpose: []
