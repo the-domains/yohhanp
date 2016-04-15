@@ -1,0 +1,28 @@
+name: yohhanp
+favicon: null
+layout_spectrum: 0.2779959971085191
+typography_spectrum: 0.1846437759231776
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.9796849137637764
+  lightness: 0.5963245443999767
+  saturation: 0.8015062951017171
+  rhythmicContrast: 0.18044982943683863
+purpose: []
